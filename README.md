@@ -41,7 +41,7 @@ Minulla meni tehtävään noin 1h15min
 `./test.exe`
 
 # Vastaus
-![h0vastaus](h0.png)
+![h0vastaus](assets/h0.png)
 
 # Virheet ja oppimiset
 - **VSCoden git bash ja lataamani MSYS2 UCRT64 ovat kaksi täysin eri ympäristöä.** Koitin aluksi ajaa kääntäjän komennot VSCoden Git Bashilta, koska luulin, että MSYS2 asentaa gcc:n myös sinne. Tappelin tämän kanssa turhaan.
